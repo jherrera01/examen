@@ -8,7 +8,7 @@ Calificaciones parciales: 75, 80, 80, 80, 75 Calificaciones finales: 90, 70, 95,
 Preguntar originales: ¿Cuál es la media para el examen final? R=90
  ¿Cuál es el rango medio de las calificaciones parciales? R=77.5
  ¿Cuál es la calificación promedio de los estudiantes en el examen final? R=87 ¿Cuál es la moda para las calificaciones del examen final? R=90 
-¿Cuál es el rango de las calificaciones parciales? R=15
+¿Cuál es el rango de las calificaciones parciales? R=5
 Preguntas complemento: ¿Cuál es la media para el examen parcial? R=70
  ¿Cuál es el rango medio de las calificaciones finales? R=80 
 ¿Cuál es la calificación promedio de los estudiantes en el examen parcial? R=75 ¿Cuál es la moda para las calificaciones del examen parcial? R=70
