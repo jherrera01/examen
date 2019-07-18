@@ -1,1 +1,2 @@
 # examen
+realizar estadistica.
